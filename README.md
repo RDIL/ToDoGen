@@ -1,6 +1,8 @@
 # ToDo-Gen
 Need a to do list?  Here is a Python script that will do it for you!  
 
+* Latest Release: v1.0  
+
 ## Requirements  
 You can feel free to use it on python 3.5 and up, how ever it has only been tested on 3.6.6.  I don't know what will happen if you try it on a 2.x.x version.  
 
