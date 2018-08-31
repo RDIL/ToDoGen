@@ -1,5 +1,5 @@
 # ToDo-Gen
-Need a to do list?  Here is a Python script that will do it for you!  
+Need a to do list?  Here is a Python script that will write it for you!  
 
 * Latest Release: v1.0  
 
