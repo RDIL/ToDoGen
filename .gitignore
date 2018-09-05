@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm by JetBrains files  
+.idea/*.xml
+.idea/*.iml
