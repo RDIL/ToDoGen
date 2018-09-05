@@ -6,7 +6,7 @@ setup(
     packages=[''],
     url='https://github.com/RDIL/ToDoGen',
     license='MIT License',
-    author='RDIL',
+    author='RDIL, PalajTech',
     author_email='contactspaceboom@gmail.com',
     description='A To-do list generator, written in Python!'
 )
