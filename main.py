@@ -3,9 +3,10 @@
 # Under the MIT License
 
 import os.path
+import os.system
 import sys
 
-maximumInputSize = input("TODO list size? ")
+maximumInputSize = input("Number of TODO list items: ")
 currentInputIndex = 0
 
 currentRetrievedText = ""
@@ -28,4 +29,5 @@ for key, value in todos.items():
     todoFile.write(key + ". " + value + "\n")
 
 todoFile.close()
-sys.exit("Program Ended.")
+sys.exit("Program finished.")
+os.system("start ToDoList.txt") 
