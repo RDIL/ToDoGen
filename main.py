@@ -1,6 +1,7 @@
 # ToDoGen Project
-# By RDIL
+# By RDIL, PalajTech
 # Under the MIT License
+
 import os.path
 import sys
 
