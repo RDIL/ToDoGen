@@ -1,5 +1,5 @@
 # ToDoGen Project
-# By RDIL, PalajTech
+# By RDIL, PelajTech
 # Under the MIT License
 
 import os
