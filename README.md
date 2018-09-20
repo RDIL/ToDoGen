@@ -19,5 +19,5 @@ python3 main.py
 It is known that the script doesn't work on Ubuntu.  
 Recently, a bug on Linux and Mac was fixed that called errors upon importing specific os modules.    
 
-
-### *If anything does not work like you think it should, please open an issue!*  
+-------------------------
+#### *If anything does not work like you think it should, please open an issue!*  
