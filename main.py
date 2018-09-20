@@ -2,8 +2,7 @@
 # By RDIL, PalajTech
 # Under the MIT License
 
-import os.path
-import os.system
+import os
 import sys
 
 maximumInputSize = input("Number of TODO list items: ")
