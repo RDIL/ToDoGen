@@ -1,4 +1,4 @@
-# ToDo-Gen
+# To-Do List Generator
 Need a to do list?  Here is a Python script that will write it for you!  
 
 * Latest Release: v1.01  
