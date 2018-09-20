@@ -106,3 +106,4 @@ venv.bak/
 # PyCharm by JetBrains files  
 .idea/*.xml
 .idea/*.iml
+*.iml
