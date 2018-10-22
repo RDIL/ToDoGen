@@ -28,5 +28,14 @@ for key, value in todos.items():
     todoFile.write(key + ". " + value + "\n")
 
 todoFile.close()
+
+if os.name == "nt":
+    # Windows
+    os.system("start ToDoList.txt")
+
+elif os.name == "posix":
+    # Linux
+    os.system("xdg-open ToDoList.txt")
+    
 sys.exit("Program finished.")
-os.system("start ToDoList.txt") 
+
